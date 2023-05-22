@@ -22,7 +22,7 @@ def send_bot_answer(prompt: str):
 
 
 def get_bot_answer(prompt: str) -> str:
-    return "pede"
+    return "test"
 
 
 def clear_chat():
